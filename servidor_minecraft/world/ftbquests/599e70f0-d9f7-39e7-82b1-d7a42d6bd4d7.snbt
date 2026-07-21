@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "599e70f0d9f739e782b1d7a42d6bd4d7"
+	name: "C0LIGAMES#599e70f0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: {
+		5F957A1DCD1AC8DD: 1783791862142L
+		0000000000000001: 1783791862142L
+		39D6F7105B861D96: 1783798664646L
+	}
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: {
+		599e70f0d9f739e782b1d7a42d6bd4d7: {
+			can_edit: 1b
+		}
+	}
+}
